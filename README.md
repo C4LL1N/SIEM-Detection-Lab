@@ -22,6 +22,10 @@ and custom detection rules mapped to MITRE ATT&CK.
 
 <img width="1016" height="770" alt="2026-03-12_15-21" src="https://github.com/user-attachments/assets/5d633ccb-f9b3-4c67-9ee8-3211fd2277cd" />
 <img width="2303" height="936" alt="2026-03-12_15-24" src="https://github.com/user-attachments/assets/35f94f0a-ad61-4d1c-a2a2-aac034ebf2b3" />
+<img width="1016" height="770" alt="2026-03-12_15-21" src="https://github.com/user-attachments/assets/44f59b70-5c99-4e9e-8747-4bd00107159b" />
+<img width="1022" height="726" alt="2026-03-12_15-30" src="https://github.com/user-attachments/assets/ae67c961-43ab-4e08-8199-5a11c861b319" />
+<img width="1012" height="704" alt="2026-03-12_15-30_1" src="https://github.com/user-attachments/assets/031007a7-d6b2-4dec-9822-dd0ff748723b" />
+
 
 
 ## What I Learned
