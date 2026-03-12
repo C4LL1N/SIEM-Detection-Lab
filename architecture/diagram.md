@@ -1,5 +1,7 @@
 
 <img width="628" height="355" alt="2026-03-12_16-01" src="https://github.com/user-attachments/assets/02da5cf6-1a9d-416c-b309-3b489b282c3e" />
+
+
 ## Test Environment Architecture Diagram
 
 The diagram presents the architecture of a laboratory environment used for analyzing security events and detecting network attacks. The environment consists of several network segments separated by a firewall, as well as a SIEM-class system used for security log analysis.
