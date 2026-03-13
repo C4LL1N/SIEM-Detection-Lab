@@ -1,6 +1,6 @@
  Rule ID | Name | MITRE ATT&CK | Level | Tested | FP Rate |
 |---------|------|-------------|-------|--------|---------|
-| 100301 | RDP Brute Force | T1110.001 | 10 | ✅ | Low/Med/High — legit failed logins |
+| 100301 | RDP Brute Force | T1110.001 | 10 | ✅ | Low — legit failed logins |
 | 100302 | Encoded PowerShell | T1059.001 | 12 | ✅ | Medium — some admin tools |
 | 100303 | Log Clearing | T1070.001 | 12 | ✅ | Low |
 | 100304 | New Service | T1543.003 | 8 | ✅ | Medium — software installs |
