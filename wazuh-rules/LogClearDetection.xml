@@ -1,0 +1,9 @@
+<rule id="100303" level="12">
+  <if_sid>60107</if_sid>
+  <field name="win.system.eventID">1102</field>
+  <description>Windows audit log cleared — possible evidence tampering</description>
+  <mitre>
+    <id>T1070.001</id>
+  </mitre>
+  <group>log_clearing,defense_evasion,</group>
+</rule>
