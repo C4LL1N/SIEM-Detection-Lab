@@ -1,0 +1,9 @@
+<rule id="102000" level="12">
+  <if_sid>61600</if_sid>
+  <field name="win.eventdata.commandLine" type="pcre2">(?i)(-enc|-encodedcommand|-e\s+[A-Za-z0-9+/=]{20,})</field>
+  <description>Suspicious PowerShell: Encoded command detected</description>
+  <mitre>
+    <id>T1059.001</id>
+  </mitre>
+  <group>suspicious_powershell,</group>
+</rule>
