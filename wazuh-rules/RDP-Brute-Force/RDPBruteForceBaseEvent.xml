@@ -1,0 +1,7 @@
+<rule id="100500" level="3">
+  <if_sid>60122</if_sid>
+  <field name="win.system.eventID">4625</field>
+  <field name="win.eventdata.logonType">10</field>
+  <description>Failed RDP login detected</description>
+  <group>windows,authentication_failed,rdp</group>
+</rule>
