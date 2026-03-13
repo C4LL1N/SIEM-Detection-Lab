@@ -1,0 +1,9 @@
+<rule id="100313" level="9" frequency="30" timeframe="1800">
+  <if_matched_sid>100310</if_matched_sid>
+  <same_source_ip />
+  <description>Possible slow RDP brute force attack</description>
+  <mitre>
+    <id>T1110</id>
+  </mitre>
+  <group>brute_force,rdp</group>
+</rule>
