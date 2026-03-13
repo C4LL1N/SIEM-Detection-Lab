@@ -1,0 +1,10 @@
+<rule id="100306" level="8">
+  <if_sid>61600</if_sid>
+  <field name="win.eventdata.image" type="pcre2">(?i)schtasks\.exe</field>
+  <field name="win.eventdata.commandLine" type="pcre2">(?i)/create</field>
+  <description>Scheduled task created — possible persistence mechanism</description>
+  <mitre>
+    <id>T1053.005</id>
+  </mitre>
+  <group>persistence,scheduled_task,</group>
+</rule>
