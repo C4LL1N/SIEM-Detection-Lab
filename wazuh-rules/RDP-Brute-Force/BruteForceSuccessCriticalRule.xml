@@ -1,0 +1,10 @@
+<rule id="100312" level="14" timeframe="300">
+  <if_sid>60106</if_sid>
+  <if_matched_sid>100311</if_matched_sid>
+  <same_source_ip />
+  <description>CRITICAL: Successful RDP login after brute force attempts</description>
+  <mitre>
+    <id>T1110</id>
+  </mitre>
+  <group>brute_force,rdp,compromise</group>
+</rule>
