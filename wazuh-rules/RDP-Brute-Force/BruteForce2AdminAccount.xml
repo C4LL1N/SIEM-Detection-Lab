@@ -1,0 +1,10 @@
+<rule id="100305" level="12" frequency="5" timeframe="120">
+  <if_matched_sid>100300</if_matched_sid>
+  <field name="win.eventdata.targetUserName">Administrator</field>
+  <same_source_ip />
+  <description>RDP brute force attack targeting Administrator account</description>
+  <mitre>
+    <id>T1110</id>
+  </mitre>
+  <group>rdp,brute_force,privileged_account</group>
+</rule>
