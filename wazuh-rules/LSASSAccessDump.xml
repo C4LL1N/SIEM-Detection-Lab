@@ -1,0 +1,10 @@
+<rule id="100305" level="14">
+  <if_sid>61600</if_sid>
+  <field name="win.eventdata.targetImage" type="pcre2">(?i)lsass\.exe</field>
+  <field name="win.system.eventID">10</field>
+  <description>LSASS memory access detected — possible credential dumping</description>
+  <mitre>
+    <id>T1003.001</id>
+  </mitre>
+  <group>credential_access,lsass,</group>
+</rule>
