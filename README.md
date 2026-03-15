@@ -14,8 +14,7 @@ and custom detection rules mapped to MITRE ATT&CK.
 - **Network:** 3 segments — WAN (NAT), LAN (192.168.10.0/24), OPT1 (192.168.20.0/24)
 
 ## Detection Rules
-| Rule | MITRE ATT&CK | Description | File |
-|------|-------------|-------------|------|
+| Rule | 
 [Proof-of-work](https://github.com/C4LL1N/SIEM-Detection-Lab/tree/main/docs/Attack-Simmulation)
 [example-of-rules](https://github.com/C4LL1N/SIEM-Detection-Lab/tree/main/wazuh-rules)
 
