@@ -16,7 +16,7 @@ and custom detection rules mapped to MITRE ATT&CK.
 ## Detection Rules
 | Rule | MITRE ATT&CK | Description | File |
 |------|-------------|-------------|------|
-|  |
+(Rules)[https://github.com/C4LL1N/SIEM-Detection-Lab/tree/main/wazuh-rules]
 
 ## Screenshots
 
